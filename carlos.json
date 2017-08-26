@@ -1,0 +1,38 @@
+{
+    "providerName":"Cindys Romance",            
+    "language":"en-US",
+    "lastUpdated":"2017-08-16T12:48:48+00:00",
+    "movies":[{
+            "id":"https://player.vimeo.com/external/214294093.m3u8?s=c4567f4e0e7b88f2d38a5179500dcc1c8783a4bf",
+            "title":"Carlos Gustavo",            
+            "content":{
+                "dateAdded":"2017-08-16T08:10:50+00:00",
+                "duration": 5411,
+                "adBreaks":[
+                    "00:00:00",
+                    "00:30:00"
+                ],
+                "videos":[
+                    {
+                        "url":"https://player.vimeo.com/external/214294093.m3u8?s=c4567f4e0e7b88f2d38a5179500dcc1c8783a4bf",
+                        "quality":"HD",
+                        "videoType":"MP4"
+                    } 
+                ]                                                
+            },
+            "genres": [
+                    "action",
+                    "thriller",
+                    "drama"
+            ],
+            "tags":[
+                    "action",
+                    "thriller",
+                    "drama"
+            ],
+            "thumbnail":"https://i.vimeocdn.com/video/648643577_800x450.jpg",
+            "releaseDate": "2017-04-28",
+            "shortDescription":"A dangerous contract killer arrives in London to hunt down a weapons engineer, but discovers the deeper truth behind his mission..."
+         }   
+    ]    
+}
